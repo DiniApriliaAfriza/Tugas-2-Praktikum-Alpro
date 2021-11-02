@@ -1,0 +1,16 @@
+package Tugas_Praktikum_Alpro;
+
+public class DiniApriliaAfriza_G50120014 {
+	public static void main (String args[]) {
+		int d = 1;
+		while (d <= 30) {
+			if(d % 2 == 0) {
+				System.out.println(d);
+				d++;
+			}
+			else {
+				d = d + 1;
+			}
+		}
+	}
+}
