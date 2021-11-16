@@ -2,6 +2,7 @@ package Tugas_Praktikum_Alpro;
 
 public class G50120014_DiniApriliaAfriza {
 	public static void main (String [] args) {
+	
 		int d;
 		for (d = 1; d <= 30; d++) {
 			if (d % 2 == 0) {
